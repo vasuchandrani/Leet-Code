@@ -59,6 +59,7 @@
   "files.associations": {
     "string": "cpp",
     "climits": "cpp",
-    "vector": "cpp"
+    "vector": "cpp",
+    "cmath": "cpp"
   }
 }
